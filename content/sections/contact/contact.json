@@ -1,13 +1,18 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "Bartosz Lis",
+  "email": "bartosz.lis@icloud.com",
+  "description": "Feel free to reach out regarding collaboration or just to connect.",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "Portrait of Bartosz Lis"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": true
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false,
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/bartosz-lis-dev",
+      "Github": "https://github.com/twojgithub",
+      "Mail": "mailto:bartosz.lis@icloud.com"
+    }
   }
 }

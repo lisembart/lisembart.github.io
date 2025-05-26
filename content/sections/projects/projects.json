@@ -2,12 +2,12 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "2017",
+      "title": "Treasure Hunter",
+      "description": "Treasure Hunter is a 2D platformer in which you have to find a way to reach your goal. When I was creating this game I learned a lot about Unity and finally, I managed to publish the project on Google Play and itch.io.",
+      "tags": ["Unity", "C#", "GameDev"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/treasure_hunter_resized.png",
         "alt": "Quick Setup",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
@@ -24,12 +24,12 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
+      "category": "2024",
+      "title": "The Witcher 3: The Price Of Neutrality Remastered",
       "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
       "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/tponLogo.png",
         "alt": "Extendable Layout"
       },
       "links": [

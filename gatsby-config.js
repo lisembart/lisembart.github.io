@@ -1,28 +1,42 @@
 module.exports = {
+  siteMetadata: {
+    siteTitle: "Bartosz Lis Portfolio",
+    siteTitleAlt: "Portfolio | Bartosz Lis",
+    siteHeadline: "Portfolio – Bartosz Lis",
+    siteUrl: "https://lisbartosz.com", // Zmień na własną domenę jeśli masz
+    siteDescription:
+      "Unity Developer specializing in VR/AR with 5+ years of experience. GameDev, Team Leader, XR enthusiast.",
+    siteLanguage: "en",
+    author: "@bartosz-lis-dev",
+    contact: {
+      email: "bartosz.lis@icloud.com",
+      linkedin: "https://www.linkedin.com/in/bartosz-lis-dev",
+    },
+  },
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
+        siteUrl: "https://bartoszlis.dev", // Zmień na swoją domenę
         manifestSettings: {
-          favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "My Minimal Portfolio", // Used in manifest.json
-          shortName: "Portfolio", // Used in manifest.json
-          startUrl: "/", // Used in manifest.json
-          backgroundColor: "#FFFFFF", // Used in manifest.json
-          themeColor: "#000000", // Used in manifest.json
-          display: "minimal-ui", // Used in manifest.json
+          favicon: "../../images//Faviconv2.ico", // Upewnij się, że plik istnieje
+          siteName: "Bartosz Lis Portfolio",
+          shortName: "Portfolio",
+          startUrl: "/",
+          backgroundColor: "#ffffff",
+          themeColor: "#10b981", // Zielony akcent, możesz zmienić
+          display: "minimal-ui",
         },
         contentDirectory: "./content",
         blogSettings: {
-          path: "/blog", // Defines the slug for the blog listing page
-          usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
+          path: "/blog",
+          usePathPrefixForArticles: false,
         },
         // googleAnalytics: {
-        //     trackingId: "UA-XXXXXX-X",
-        //     anonymize: true, // Default true
-        //     environments: ["production", "development"] // Default ["production"]
-        // }
+        //   trackingId: "UA-XXXXXX-X",
+        //   anonymize: true,
+        //   environments: ["production", "development"],
+        // },
       },
     },
   ],

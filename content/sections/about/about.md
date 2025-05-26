@@ -1,14 +1,15 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+title: "About Me"
+imageSrc: "../../images/1558385688940.jpeg"
+imageAlt: "About Me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello! I'm **Bartosz Lis**, a Unity Developer with over 5 years of experience, mainly focused on developing **VR** and **AR** applications in Unity.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Over the years, I’ve worked on commercial XR projects, designed immersive training applications, and contributed to various tools used in enterprise environments. Beyond professional work, I’ve also been involved in **creating and modding games**, which helped shape my passion for game development and broadened my technical perspective.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Currently, I work as a **Unity Developer** and Team Leader at Aidar Solutions, where I take part in projects like *Aidar.Skills* – a powerful editor for building interactive VR training sessions.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Outside of work, I’m passionate about 3D printing, modding games, and classic photography.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+---
