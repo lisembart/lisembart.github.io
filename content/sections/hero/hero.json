@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Bartosz Lis",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Game & Software Developer",
+    "highlight": "",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false

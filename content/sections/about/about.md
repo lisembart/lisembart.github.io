@@ -3,7 +3,6 @@ title: "About Me"
 imageSrc: "../../images/1558385688940.jpeg"
 imageAlt: "About Me"
 ---
-
 Hello! I'm **Bartosz Lis**, a Unity Developer with over 5 years of experience, mainly focused on developing **VR** and **AR** applications in Unity.
 
 Over the years, I’ve worked on commercial XR projects, designed immersive training applications, and contributed to various tools used in enterprise environments. Beyond professional work, I’ve also been involved in **creating and modding games**, which helped shape my passion for game development and broadened my technical perspective.

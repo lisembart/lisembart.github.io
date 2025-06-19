@@ -19,7 +19,8 @@ module.exports = {
       options: {
         siteUrl: "https://bartoszlis.dev", // Zmień na swoją domenę
         manifestSettings: {
-          favicon: "../../images//Faviconv2.ico", // Upewnij się, że plik istnieje
+          favicon: "Favicon.png",
+          icon: "Favicon.png",
           siteName: "Bartosz Lis Portfolio",
           shortName: "Portfolio",
           startUrl: "/",
