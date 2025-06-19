@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
+    pathPrefix: "/lisbartosz.github.io", 
     siteTitle: "Bartosz Lis Portfolio",
     siteTitleAlt: "Portfolio | Bartosz Lis",
     siteHeadline: "Portfolio – Bartosz Lis",
-    siteUrl: "https://lisbartosz.com", // Zmień na własną domenę jeśli masz
+    //siteUrl: "https://lisbartosz.com", 
+    siteUrl: "https://lisbartosz.github.io",
     siteDescription:
       "Unity Developer specializing in VR/AR with 5+ years of experience. GameDev, Team Leader, XR enthusiast.",
     siteLanguage: "en",
@@ -17,7 +19,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://bartoszlis.dev", // Zmień na swoją domenę
+        siteUrl: "https://bartoszlis.dev", 
         manifestSettings: {
           favicon: "Favicon.png",
           icon: "Favicon.png",
@@ -25,7 +27,7 @@ module.exports = {
           shortName: "Portfolio",
           startUrl: "/",
           backgroundColor: "#ffffff",
-          themeColor: "#10b981", // Zielony akcent, możesz zmienić
+          themeColor: "#10b981", 
           display: "minimal-ui",
         },
         contentDirectory: "./content",
