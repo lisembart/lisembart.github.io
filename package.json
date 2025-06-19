@@ -22,7 +22,7 @@
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://lisembart.github.io/lisbartosz.github.io", 
+  "homepage": "https://lisembart.github.io/", 
   "repository": {
     "type": "git",
     "url": "https://github.com/lisembart/lisbartosz.github.io.git" 

@@ -1,11 +1,10 @@
 module.exports = {
   siteMetadata: {
-    pathPrefix: "/portfolio", 
     siteTitle: "Bartosz Lis Portfolio",
     siteTitleAlt: "Portfolio | Bartosz Lis",
     siteHeadline: "Portfolio – Bartosz Lis",
     //siteUrl: "https://lisbartosz.com", 
-    siteUrl: "https://lisbartosz.github.io",
+    siteUrl: "https://lisembart.github.io",
     siteDescription:
       "Unity Developer specializing in VR/AR with 5+ years of experience. GameDev, Team Leader, XR enthusiast.",
     siteLanguage: "en",
