@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    pathPrefix: "/lisbartosz.github.io", 
+    pathPrefix: "/portfolio", 
     siteTitle: "Bartosz Lis Portfolio",
     siteTitleAlt: "Portfolio | Bartosz Lis",
     siteHeadline: "Portfolio – Bartosz Lis",
