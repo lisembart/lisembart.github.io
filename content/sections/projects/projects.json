@@ -13,16 +13,80 @@
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://foxontherun.itch.io/treasure-hunter"
         }
       ]
     },
     {
+      "visible": true,
+      "category": "2021",
+      "title": "Datenshi: Reborn",
+      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/DatenshiLogo.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "2019-2025",
+      "title": "Aidar.Skills - Editor",
+      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/AidarEditorLogo.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "2019-2025",
+      "title": "Aidar.Skills - Player",
+      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/aidarSkillsPlayer.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "2024",
+      "title": "The Witcher 3: Halloween at Crossroads Inn",
+      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/crossroadsInnLogo.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+        {
       "visible": true,
       "category": "2024",
       "title": "The Witcher 3: The Price Of Neutrality Remastered",
