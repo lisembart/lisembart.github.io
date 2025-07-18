@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-imageSrc: "../../images/1558385688940.jpeg"
+imageSrc: "../../images/Photo.png"
 imageAlt: "About Me"
 ---
 Hello! I'm **Bartosz Lis**, a Unity Developer with over 5 years of experience, mainly focused on developing **VR** and **AR** applications in Unity.
